@@ -6,6 +6,8 @@
 // @author       Punk Deer
 // @match        https://www.youtube.com/watch*
 // @grant        GM_setClipboard
+// @updateURL    https://github.com/PunkDeer/-Youtube-/raw/refs/heads/main/%E5%A4%8D%E5%88%B6Youtube%E4%BF%A1%E6%81%AF-2.1.user.js
+// @downloadURL  https://github.com/PunkDeer/-Youtube-/raw/refs/heads/main/%E5%A4%8D%E5%88%B6Youtube%E4%BF%A1%E6%81%AF-2.1.user.js
 // ==/UserScript==
 
 (function() {
