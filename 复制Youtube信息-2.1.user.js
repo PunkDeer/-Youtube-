@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         复制Youtube信息
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      2.2
 // @description  Copy creator name, views, likes, comments, subscribers, and publish date from YouTube videos.
 // @author       Punk Deer
 // @match        https://www.youtube.com/watch*
